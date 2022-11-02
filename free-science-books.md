@@ -148,6 +148,7 @@
 
 * [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
 * [Physical Geology](https://opentextbc.ca/geology/open/download?type=pdf) - Steven Earle (PDF)
+* [Texas Fossils: An Amateur Collector's Handbook (1984)](https://www.gutenberg.org/ebooks/56315) - William Henry Matthews 
 
 
 ## (QH) Natural history
